@@ -20,10 +20,6 @@
                             <p class="mb-4">
                                 {{ $descricao }}
                             </p>
-                            <button class="btn btn-primary" data-bs-dismiss="modal">
-                                <i class="fas fa-xmark fa-fw"></i>
-                                Close Window
-                            </button>
                         </div>
                     </div>
                 </div>
