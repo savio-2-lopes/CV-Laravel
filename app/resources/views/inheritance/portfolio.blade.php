@@ -22,11 +22,6 @@
                 @empty
                     <h1>Nenhum projeto encontrado</h1>
                 @endforelse
-                @include('partials._pagination', [
-                    'total' => count($projetos),
-                    'first' => '<<',
-                    'last' => '>>',
-                ])
             </div>
         </div>
     </section>
