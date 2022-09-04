@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\SiteComponentsController;
 use App\Http\Controllers\SiteInheritanceController;
 use Illuminate\Support\Facades\Route;
 
@@ -14,38 +15,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/site/inheritance', [SiteInheritanceController::class, 'home']);
-Route::get('/site/inheritance/portfolio', [SiteInheritanceController::class, 'portfolio']);
-Route::get('/site/inheritance/sobre', [SiteInheritanceController::class, 'sobre']);
-Route::get('/site/inheritance/contato', [SiteInheritanceController::class, 'contato']);
-
-Route::get('/', function () {
-    return view('index', [
-        'projetos' => [
-            [
-                'ativo' => false,
-                'imagem' => 'cabin.png'
-            ],
-            [
-                'ativo' => true,
-                'imagem' => 'cake.png'
-            ],
-            [
-                'ativo' => true,
-                'imagem' => 'circus.png'
-            ],
-            [
-                'ativo' => true,
-                'imagem' => 'game.png'
-            ],
-            [
-                'ativo' => true,
-                'imagem' => 'safe.png'
-            ],
-            [
-                'ativo' => true,
-                'imagem' => 'submarine.png'
-            ],
-        ]
-    ]);
-});
+Route::get('/', [SiteInheritanceController::class, 'home'])->name('site.home');
+Route::get('/portfolio', [SiteInheritanceController::class, 'portfolio'])->name('site.portfolio');
+Route::get('/sobre', [SiteInheritanceController::class, 'sobre'])->name('site.sobre');
+Route::get('/contato', [SiteInheritanceController::class, 'contato'])->name('site.contato');

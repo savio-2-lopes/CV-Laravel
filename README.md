@@ -6,6 +6,9 @@ sudo docker compose up --build
 ### Criando projeto Laravel
 composer create-project laravel/laravel .
 
+### Permissões
+chmod -R 777 /var/www/php/ 
+
 <br>
 
 <a id="creditos"></a>
