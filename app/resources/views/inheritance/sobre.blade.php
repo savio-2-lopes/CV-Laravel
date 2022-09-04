@@ -73,7 +73,7 @@
             </div>
 
             <div class="text-center mt-4">
-                <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
+                <a class="btn btn-xl btn-outline-light" href="/CV-Savio_Lopes.pdf" download="CV-Savio_Lopes.pdf">
                     <i class="fas fa-download me-2"></i>
                     Download CV
                 </a>
