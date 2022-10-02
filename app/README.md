@@ -7,7 +7,7 @@
 
 
 <p align="center">
-    <img alt="Blade Laravel Framework" title="Blade Laravel Framework" src="../.github/blade-laravel.gif" width="900px" />
+    <img alt="Blade Laravel Framework" title="Blade Laravel Framework" src="../.github/framework-blade-laravel.gif" width="900px" />
 </p>
 
 
