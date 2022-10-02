@@ -64,8 +64,6 @@
 
                     <p class="lead mb-0">
                         Canas / SP
-                        <br>
-                        2215, Daniel Drive MO
                     </p>
                 </x-section-footer>
 
@@ -93,7 +91,7 @@
                     </x-slot>
 
                     <p class="lead mb-0">
-                        Freelance is a free to use, MIT licensed Bootstrap theme created by
+                        Baseado no Template open-source 
                         <a href="http://startbootstrap.com">Start Bootstrap</a>
                         .
                     </p>
@@ -103,7 +101,7 @@
     </footer>
 
     <div class="copyright py-4 text-center text-white">
-        <div class="container"><small>Copyright &copy; Your Website 2022</small></div>
+        <div class="container"><small>Copyright &copy; Savio Lopes 2022</small></div>
     </div>
 
     <!-- Bootstrap core JS-->

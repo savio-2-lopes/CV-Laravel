@@ -14,7 +14,7 @@
                 <div class="divider-custom-line"></div>
             </div>
             <p class="masthead-subheading font-weight-light mb-0">
-                Intern in Web Developer | React.js | Node.JS | Graduating in Systems Analysis and Development
+                Dev Jr | React | React Native | Node | JavaScript | Typescript | PHP
             </p>
         </div>
     </header>

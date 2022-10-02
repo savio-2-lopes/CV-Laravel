@@ -15,11 +15,10 @@
             <div class="container row d-flex text-gray justify-content-center">
                 <div class="col-lg-4">
                     <p class="lead">
-                        Estagiário em Desenvolvimento Web | Graduando em Análise e Desenvolvimento de Sistemas |
-                        Palestrante.
+                        Dev Jr | Graduando em Análise e Desenvolvimento de Sistemas.
                     </p>
                     <p class="lead">
-                        Olá! Me chamo Savio Lopes e sou Estagiário em Desenvolvimento Web, graduando em Análise de
+                        Olá! Me chamo Savio Lopes, graduando em Análise de
                         Sistemas pela Faculdade de Tecnologia do Estado de São Paulo e técnico em Eletrônica.
                     </p>
                     <p class="lead">
@@ -27,10 +26,10 @@
                     </p>
                     <ul class="lead">
                         <li>
-                            <span class="font-weight-bold">(09/2020 - 09/2021)</span> - Estagiário em programação na
-                            empresa Cazalab, com foco em
-                            Python;
-                        </li>
+                            <span class="font-weight-bold">(05/2022 -
+                                08/2022)</span> - Estagiário em programação na empresa Slideworks, com foco em
+                            Javascript
+                        </li>                       
                         <li>
                             <span class="font-weight-bold">(01/2022 - 04/2022)</span> - Estagiário no Setor de Inovação
                             e Tecnologia na empresa Mais
@@ -38,9 +37,9 @@
                             PHP;
                         </li>
                         <li>
-                            <span class="font-weight-bold">(05/2022 -
-                                08/2022)</span> - Estagiário em programação na empresa Slideworks, com foco em
-                            Javascript ;
+                            <span class="font-weight-bold">(11/2020 - 11/2021)</span> - Estagiário em programação na
+                            empresa Cazalab, com foco em
+                            Python;
                         </li>
                     </ul>
                 </div>
